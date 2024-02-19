@@ -1,0 +1,12 @@
+[
+	{
+		"name": "TrollGuard",
+		"themeColor": "#8F2AFF",
+		"logoUrl": "https://trollguard.huracan.solutions/assets/logo.png",
+		"active": true,
+		"requestUrl": "https://trollguard.huracan.solutions/firewallgg/checkuser/",
+		"method": "get",
+		"appealLink": "https://trollguard.huracan.solutions",
+		"otherData": {}
+	}
+]
