@@ -8,5 +8,15 @@
 		"method": "get",
 		"appealLink": "https://trollguard.huracan.solutions",
 		"otherData": {}
-	}
+	},
+	{
+		"name": "CrypticBans",
+		"themeColor": "#ff0080",
+		"logoUrl": "https://firewall.crypticoffical.net/assets/logo.png",
+		"active": true,
+		"requestUrl": "https://firewall.crypticoffical.net/api/crypticcheck/",
+		"method": "get",
+		"appealLink": "https://discord.gg/crypticoffical",
+		"otherData": {}
+	},
 ]
