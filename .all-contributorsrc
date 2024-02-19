@@ -1,0 +1,182 @@
+{
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-blue.svg)](#contributors)",
+  "projectName": "firewallgg",
+  "projectOwner": "Itz-Hyperz",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "Itz-Hyperz",
+      "name": "Itz-Hyperz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69090660?v=4",
+      "profile": "https://bosssoftware.net",
+      "contributions": [
+        "bug",
+        "business",
+        "code",
+        "doc",
+        "security",
+        "review"
+      ]
+    },
+    {
+      "login": "XolifyDev",
+      "name": "XolifyDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103285682?v=4",
+      "profile": "https://xolify.store/",
+      "contributions": [
+        "ideas",
+        "tool"
+      ]
+    },
+    {
+      "login": "sandwichthedev",
+      "name": "sandwichthedev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69737561?v=4",
+      "profile": "https://github.com/sandwichthedev",
+      "contributions": [
+        "ideas",
+        "tool",
+        "bug"
+      ]
+    },
+    {
+      "login": "zedofficial",
+      "name": "ZED Official",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61573331?v=4",
+      "profile": "https://zedofficial.xyz/",
+      "contributions": [
+        "ideas",
+        "tool"
+      ]
+    },
+    {
+      "login": "LouDawg2",
+      "name": "LouDawg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66086177?v=4",
+      "profile": "https://github.com/LouDawg2",
+      "contributions": [
+        "tool",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Shawn-E",
+      "name": "Shawn E.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86177860?v=4",
+      "profile": "https://store.shawnengmann.com/",
+      "contributions": [
+        "design",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Jordan2139",
+      "name": "Jordan.#2139",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65438497?v=4",
+      "profile": "https://jordan2139.me",
+      "contributions": [
+        "ideas",
+        "tool",
+        "infra",
+        "code"
+      ]
+    },
+    {
+      "login": "NovaCustoms",
+      "name": "Nova Customs Inc ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97416193?v=4",
+      "profile": "https://novacustoms.com",
+      "contributions": [
+        "tool",
+        "ideas"
+      ]
+    },
+    {
+      "login": "FusionsWorld",
+      "name": "FusionsWorld",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89275160?v=4",
+      "profile": "https://fusions.world",
+      "contributions": [
+        "ideas",
+        "tool"
+      ]
+    },
+    {
+      "login": "PattysDevelopment",
+      "name": "Patrick Calcote",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88861117?v=4",
+      "profile": "https://github.com/PattysDevelopment",
+      "contributions": [
+        "ideas",
+        "tool"
+      ]
+    },
+    {
+      "login": "Chris-Newton2000",
+      "name": "GregoryDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95302476?v=4",
+      "profile": "https://github.com/Chris-Newton2000",
+      "contributions": [
+        "ideas",
+        "tool"
+      ]
+    },
+    {
+      "login": "Plactrix",
+      "name": "Plactrix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48103197?v=4",
+      "profile": "https://pluxmods.tebex.io/",
+      "contributions": [
+        "ideas",
+        "tool"
+      ]
+    },
+    {
+      "login": "weirdbandkid",
+      "name": "Hunter Fleming",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63882306?v=4",
+      "profile": "https://www.weirdbandkid.games",
+      "contributions": [
+        "ideas",
+        "tool"
+      ]
+    },
+    {
+      "login": "IamAdren",
+      "name": "Adren",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35825183?v=4",
+      "profile": "https://github.com/IamAdren",
+      "contributions": [
+        "ideas",
+        "tool"
+      ]
+    },
+    {
+      "login": "codenationgroup",
+      "name": "codenationgroup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66074938?v=4",
+      "profile": "https://github.com/codenationgroup",
+      "contributions": [
+        "ideas",
+        "tool"
+      ]
+    },
+    {
+      "login": "Paradise-Solutions",
+      "name": "Paradise Solutions",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119133649?v=4",
+      "profile": "https://github.com/Paradise-Solutions",
+      "contributions": [
+        "ideas",
+        "tool"
+      ]
+    }
+  ],
+  "files": [
+    "README.md"
+  ],
+  "contributorsPerLine": 7,
+  "commitConvention": "angular"
+}
