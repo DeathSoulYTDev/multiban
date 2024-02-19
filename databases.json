@@ -14,7 +14,7 @@
 		"themeColor": "#ff0080",
 		"logoUrl": "https://firewall.crypticoffical.net/assets/logo.png",
 		"active": true,
-		"requestUrl": "https://firewall.crypticoffical.net//firewall/checkuser/",
+		"requestUrl": "https://firewall.crypticoffical.net/firewall/checkuser/",
 		"method": "get",
 		"appealLink": "https://discord.gg/crypticoffical",
 		"otherData": {}
