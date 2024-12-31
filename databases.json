@@ -23,7 +23,7 @@
 		"name": "CrypticBans",
 		"themeColor": "#ff0080",
 		"logoUrl": "https://firewall.crypticoffical.net/assets/logo.png",
-		"active": true,
+		"active": false,
 		"requestUrl": "https://firewall.crypticoffical.net/firewall/checkuser/",
 		"method": "get",
 		"appealLink": "https://discord.gg/crypticoffical",
