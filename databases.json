@@ -12,7 +12,7 @@
 	{
 		"name": "RetroGuard",
 		"themeColor": "#9B3DE2",
-		"logoUrl": "https://guard.retropeak.solutions/assets/logo.png",
+		"logoUrl": "https://retropeak.solutions/logo.png",
 		"active": true,
 		"requestUrl": "https://guard.retropeak.solutions/api/checkuser/",
 		"method": "get",
