@@ -6,7 +6,7 @@
 		"active": true,
 		"requestUrl": "https://trollguard.huracan.solutions/firewallgg/checkuser/",
 		"method": "get",
-		"appealLink": "https://trollguard.huracan.solutions",
+		"appealLink": "https://trollguard.huracan.solutions/appeal",
 		"otherData": {}
 	},
 	{
@@ -26,7 +26,7 @@
 		"active": true,
 		"requestUrl": "https://firewall.crypticoffical.net/firewall/checkuser/",
 		"method": "get",
-		"appealLink": "https://discord.gg/crypticoffical",
+		"appealLink": "https://dsc.gg/cryptix",
 		"otherData": {}
 	}
 ]
