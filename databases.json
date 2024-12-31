@@ -10,6 +10,16 @@
 		"otherData": {}
 	},
 	{
+		"name": "RetroGuard",
+		"themeColor": "#9B3DE2",
+		"logoUrl": "https://guard.retropeak.solutions/assets/logo.png",
+		"active": true,
+		"requestUrl": "https://guard.retropeak.solutions/api/checkuser/",
+		"method": "get",
+		"appealLink": "https://guard.retropeak.solutions/appeal",
+		"otherData": {}
+	},
+	{
 		"name": "CrypticBans",
 		"themeColor": "#ff0080",
 		"logoUrl": "https://firewall.crypticoffical.net/assets/logo.png",
